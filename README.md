@@ -1,4 +1,5 @@
 # Debian Jessie base Dockerfile
+[![Circle CI](https://circleci.com/gh/puckel/docker-base.svg?style=svg)](https://circleci.com/gh/puckel/docker-base)
 
 This repository contains **Dockerfile** of [Debian](http://debian.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/puckel/docker-base/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
